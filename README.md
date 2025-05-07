@@ -1,6 +1,4 @@
-# express-app-nestjs-syntax
-
-<h3>Is it possible to build an Express App Like nestjs applications</h3>
+# Is it possible to build an Express App Like nestjs applications
 <h2>with nest's <b>Syntax</b> ?!</h2>
 
 <h2>it took me 2 days to figure out how to exactly simulate Nest.js decorators in Express.js</h2>
