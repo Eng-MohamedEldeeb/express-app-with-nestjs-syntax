@@ -42,6 +42,3 @@ unfortunately this comes with a trade off of course, the complexity and the unwa
 the frameworks as they are instead of spending much time with creating the circle once again
 
 <h1>But At Least It Wasn't That Hard Though 😊👍</h1>
-=======
-<h3>Is it possiple to build an Express App Like nestjs applications</h3>
-<h2>with nest's <b>Syntax</b> ?!</h2>
